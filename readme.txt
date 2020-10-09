@@ -1,3 +1,2 @@
-Git is a distrbuted version control system.
-Git is free software.
-jiaru
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
